@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <meta charset="ISO-8859-1">
-    <meta name="viewport" content="width=device-width">
-    <meta org:title ="Aaa">
-    <meta org:type = "pagina web">
-    <meta org:image>
-    <meta org:url>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Aaa">
+    <meta name="twitter:type" content="website">
+    <meta name="twitter:image" content="URL_DE_LA_IMAGEN">
+    <meta name="twitter:url" content="URL_DE_LA_PAGINA">
     <title>Jeje</title>
   </head>
   <body>
@@ -14,4 +15,5 @@
     <p>Ejemplo en japonés: ご飯が熱い。</p>
   </body>
 </html>
+
 
